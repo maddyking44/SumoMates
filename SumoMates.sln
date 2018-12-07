@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumoMates", "NewAssembly.csproj", "{3DB7F382-6EA0-E4B6-5B62-C9C1283563AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumoMates", "Assembly-CSharp.csproj", "{C82ED053-91AC-5A30-021C-088F63AA6D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumoMates", "Assembly-CSharp-Editor.csproj", "{93E7D692-7C55-E0B6-5C97-BBE7CF497583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{3DB7F382-6EA0-E4B6-5B62-C9C1283563AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB7F382-6EA0-E4B6-5B62-C9C1283563AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB7F382-6EA0-E4B6-5B62-C9C1283563AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82ED053-91AC-5A30-021C-088F63AA6D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82ED053-91AC-5A30-021C-088F63AA6D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82ED053-91AC-5A30-021C-088F63AA6D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82ED053-91AC-5A30-021C-088F63AA6D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E7D692-7C55-E0B6-5C97-BBE7CF497583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E7D692-7C55-E0B6-5C97-BBE7CF497583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E7D692-7C55-E0B6-5C97-BBE7CF497583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E7D692-7C55-E0B6-5C97-BBE7CF497583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
