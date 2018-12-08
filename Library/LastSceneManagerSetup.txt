@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/OrigGamezone.unity
+- path: Assets/Scenes/BigSumoCourse.unity
   isLoaded: 1
   isActive: 1
