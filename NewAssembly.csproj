@@ -55,8 +55,10 @@
      <Compile Include="Assets\Scripts\AddPlayerControlledVelocity.cs" />
      <Compile Include="Assets\Scripts\CopyPosition.cs" />
      <Compile Include="Assets\Scripts\CopyPositionSpecial.cs" />
+     <Compile Include="Assets\Scripts\RespawninRelativePosition.cs" />
      <Compile Include="Assets\Scripts\RestartLevelOnCollision.cs" />
      <Compile Include="Assets\Scripts\RestartLevelWithButton.cs" />
+     <Compile Include="Assets\Scripts\TriggerRespawn.cs" />
      <Compile Include="Assets\Scripts\TriggerWin.cs" />
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

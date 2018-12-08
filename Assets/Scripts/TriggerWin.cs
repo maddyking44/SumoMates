@@ -14,7 +14,7 @@ public class TriggerWin : MonoBehaviour {
 		if(other.gameObject.tag == "SpherePlayer")
 		{                                        
 		Instantiate(GUITexture, new Vector3(-2, 5, 34), Quaternion.identity);      
-		Destroy(gameObject);
+		// Destroy(other.gameObject);  //only destroys body
 		}
 	}
 	void OnTriggerStay (Collider other)
